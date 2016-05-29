@@ -1,0 +1,8 @@
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankServiceHost\bin\Debug\BankServiceHost.exe.config
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankServiceHost\bin\Debug\BankServiceHost.exe
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankServiceHost\bin\Debug\BankServiceHost.pdb
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankServiceHost\bin\Debug\BankService.dll
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankServiceHost\bin\Debug\BankService.pdb
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankServiceHost\obj\Debug\BankServiceHost.csprojResolveAssemblyReference.cache
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankServiceHost\obj\Debug\BankServiceHost.exe
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankServiceHost\obj\Debug\BankServiceHost.pdb

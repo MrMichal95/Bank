@@ -1,0 +1,5 @@
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankService\obj\Debug\BankService.csprojResolveAssemblyReference.cache
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankService\bin\Debug\BankService.dll
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankService\bin\Debug\BankService.pdb
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankService\obj\Debug\BankService.dll
+D:\Dysk Google\C# (1)\Bank\BankService\BankService\BankService\obj\Debug\BankService.pdb

@@ -1,0 +1,6 @@
+D:\Dysk Google\C# (1)\Bank\WebClient\WebClient\WebClient\bin\WebClient.dll.config
+D:\Dysk Google\C# (1)\Bank\WebClient\WebClient\WebClient\bin\WebClient.dll
+D:\Dysk Google\C# (1)\Bank\WebClient\WebClient\WebClient\bin\WebClient.pdb
+D:\Dysk Google\C# (1)\Bank\WebClient\WebClient\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+D:\Dysk Google\C# (1)\Bank\WebClient\WebClient\WebClient\obj\Debug\WebClient.dll
+D:\Dysk Google\C# (1)\Bank\WebClient\WebClient\WebClient\obj\Debug\WebClient.pdb
