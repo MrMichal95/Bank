@@ -1,6 +1,6 @@
 # Bank
  Aplikacja do zarządzania kontami bankowymi. Klient serwer w oparciu o WCF service wraz z bazą danych oraz aplikacją klienta w ASP.NET.
- **Pełen opis aplikacji znajduje się w pliku "Opis aplikacji Bank.docx."**
+ **Pełny opis aplikacji znajduje się w pliku "Opis aplikacji Bank.docx."**
  
 -	Język: C#
 -	Baza danych: relacyjna baza danych Microsoft Sql Server 2014
